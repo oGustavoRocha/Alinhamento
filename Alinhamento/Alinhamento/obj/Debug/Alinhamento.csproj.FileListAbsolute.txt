@@ -1,0 +1,12 @@
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\bin\Debug\Alinhamento.exe.config
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\bin\Debug\Alinhamento.exe
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\bin\Debug\Alinhamento.pdb
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.csprojResolveAssemblyReference.cache
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.Form1.resources
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.Properties.Resources.resources
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.csproj.GenerateResource.Cache
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.exe
+H:\Meu\ETEC2019\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.pdb
+I:\DS\Alinhamento\Alinhamento\bin\Debug\Alinhamento.exe.config
+I:\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.exe
+I:\DS\Alinhamento\Alinhamento\obj\Debug\Alinhamento.pdb
